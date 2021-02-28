@@ -5,7 +5,7 @@ nama bulan: {"Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus",
 
 # CONTOH INPUT OUTPUT:
 
-<b>test_case_1<b><br>
+<b>test_case_1</b><br>
 INPUT-------------------------<br>
 2<br>
 OUTPUT------------------------<br>
@@ -14,7 +14,7 @@ Maret<br>
 April<br>
 Mei<br>
 
-<b>test_case_2<b><br>
+<b>test_case_2</b><br>
 INPUT-------------------------<br>
 5<br>
 OUTPUT------------------------<br>
@@ -23,7 +23,7 @@ Juni<br>
 Juli<br>
 Agustus<br>
 
-<b>test_case_3<b><br>
+<b>test_case_3</b><br>
 INPUT-------------------------<br>
 11<br>
 OUTPUT------------------------<br>
@@ -32,7 +32,7 @@ Desember<br>
 Januari<br>
 Februari<br>
 
-<b>test_case_4<b><br>
+<b>test_case_4</b><br>
 INPUT-------------------------<br>
 10<br>
 OUTPUT------------------------<br>
